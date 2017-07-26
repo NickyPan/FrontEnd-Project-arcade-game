@@ -1,0 +1,9 @@
+body {
+    text-align: center;
+}
+
+#timer {
+    margin: 0;
+    text-align: center;
+    font-size: 60px;
+}
